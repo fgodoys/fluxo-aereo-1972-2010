@@ -1,5 +1,5 @@
-## Fluxo Áereo de 1972 à 2010
-* Repositório no GitHub: [Fluxo Aéreo 1972 - 2010] (https://github.com/brunokadri/fluxo-aereo-1972-2010)
+## Fluxo Áereo 2010
+* Repositório no GitHub: [Fluxo Aéreo 2010] (https://github.com/fgodoys/fluxo-aereo-2010)
 
 ## Equipe 
 * **Nome:** Bruno Kadri - **RA:** 165136 - **Email:** bruno_kadri@hotmail.com - **GitHub**: [brunokadri] (https://github.com/brunokadri/)
@@ -14,13 +14,13 @@
 ##
 
 ## Motivação
-> Este projeto tem como objetivo ilustrar por meio de gráficos os dados disponibilizados pelo Instituto Brasileiro de Geografia e Estatística sobre o tráfego aéreo do Brasil entre os períodos de 1972 à 2010 sobre custos de viagem entre os aeroportos brasileiros.
+> Este projeto tem como objetivo ilustrar por meio de gráficos os dados disponibilizados pelo Instituto Brasileiro de Geografia e Estatística sobre o tráfego aéreo do Brasil em 2010 sobre custos de viagem entre os aeroportos brasileiros.
 
 ##
 
 ## Dados
 
-* **Fonte:** [IBGE - Matriz de Custo Entre as Cidades] (ftp://geoftp.ibge.gov.br/organizacao_do_territorio/redes_e_fluxos_geograficos/ligacoes_aereas/bases_de_dados/xls/custo.xls)
+* **Fonte:** [IBGE - Matriz de Custo Entre as Cidades] (http://www.ibge.gov.br/home/geociencias/geografia/redes_fluxos/ligacoes_aereas_2010/base.shtm)
 
 
 * **Descrição dos dados** 
